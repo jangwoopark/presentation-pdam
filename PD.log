@@ -1,0 +1,9 @@
+Scenario - PD
+Logfile written - 02/05/2012 00:55:24
+
+Pulse	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+0	Picture	fix	-9833	-9833	1	60066	2	0	60000	other	0
+1	Pulse	0	0	0	NA
+2	Pulse	0	20000	20000	NA
+3	Pulse	0	40000	40000	NA
